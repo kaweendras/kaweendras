@@ -13,7 +13,7 @@
 
 - 🎓 I'm a Computer Science Graduate
 
-- 📧 Reeach me at **it16166134@my.sliit.lk**
+- 📧 Reach me at **it16166134@my.sliit.lk**
 
 - ⚡ Hobbies **PC Games 🎮, Books📚, Movies🎞, Photography📷**
 
