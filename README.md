@@ -1,9 +1,16 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kaweendra</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-
+<!--
 <p align="center">
   <img src ="https://www.therevisionist.org/wp-content/uploads/2016/01/Angry-Panda-breaking-keyboard.gif">
 </p>
+--!>
+
+<p align="center">
+  <img src ="https://user-images.githubusercontent.com/21986859/81631070-976d9300-93f6-11ea-9137-072a3b386110.gif" width="25%">
+</p>
+
+
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/kaweendras)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kaweendras)
