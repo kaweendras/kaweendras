@@ -30,10 +30,12 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/dear__spider" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aritraroy24roy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaweendra" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aritraroy24" height="30" width="40" /></a>
-<a href="https://instagram.com/devil.u.know" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aritraroy24" height="30" width="40" /></a>
+<a href="https://twitter.com/dear__spider" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="aritraroy24roy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaweendra" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="aritraroy24" height="40" width="40" /></a>
+<a href="https://instagram.com/devil.u.know" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="aritraroy24" height="40" width="40" style="margin-left:5px;" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
