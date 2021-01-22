@@ -38,7 +38,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="visualstudiocode" height="40" width="40" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://pngimg.com/uploads/github/github_PNG58.png" alt="github" height="40" width="40" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/bettericons/354/github-circle-512.png" alt="github" height="40" width="40" /></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> </a> 
