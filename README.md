@@ -54,7 +54,7 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/640px-Arduino_Logo.svg.png" alt="firebase" width="50" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/> </a> 
-  <a href="https://mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySql" width="60" height="55"/> </a> 
+  <a href="https://mysql.com/" target="_blank"> <img src="https://i.pinimg.com/originals/09/7b/34/097b349ab1d78c15744c3a89ff457939.png" alt="MySql" width="60" height="55"/> </a> 
 </p>
   
 <a href="https://github.com/kaweendras/kaweendras">
