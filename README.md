@@ -18,7 +18,7 @@
 
 
 
-- 📙 I’m currently studying **Machine Learning in Python**
+- 📙 I’m currently studying **Machine Learning in Python** & **GO**
 
 - 💻 My projects are available at [https://github.com/kaweendras](https://github.com/kaweendras)
 
