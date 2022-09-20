@@ -19,7 +19,7 @@
 
 
 
-- 📙 I’m currently studying **Machine Learning in Python** & **GO**
+- 📙 I’m currently studying **Machine Learning in Python** , **GO** and **Solidity**
 
 - 💻 My projects are available at [https://github.com/kaweendras](https://github.com/kaweendras)
 
