@@ -19,13 +19,11 @@
 
 
 
-- 📙 I’m currently studying **Machine Learning in Python** , **GO** and **Solidity**
+- 📙 I’m currently studying **Machine Learning** , **Web3.js , Ether.js** and **Solidity**
 
 - 💻 My projects are available at [https://github.com/kaweendras](https://github.com/kaweendras)
 
-- 🎓 I'm a Computer Science Graduate
-
-- 📧 Reach me at **it16166134@my.sliit.lk**
+- 📧 Reach me at <a  href="https://twitter.com/kaweendra_s">**Twitter**<a/>
 
 - ⚡ Hobbies **PC Games 🎮, Books📚, Movies🎞, Photography📷**
 
