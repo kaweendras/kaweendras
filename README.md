@@ -28,7 +28,7 @@
 - ⚡ Hobbies **PC Games 🎮, Books📚, Movies🎞, Photography📷**
 
 
-
+[![@kaweendras's Holopin board](https://holopin.me/kaweendras)](https://holopin.io/@kaweendras)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,4 +56,4 @@
 </a></br>
 <a href="https://github.com/kaweendras/kaweendras">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaweendras&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aritra's GitHub Stats" />
-[![@kaweendras's Holopin board](https://holopin.me/kaweendras)](https://holopin.io/@kaweendras)
+
