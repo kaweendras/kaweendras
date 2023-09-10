@@ -23,7 +23,7 @@
 
 - 💻 My projects are available at [https://github.com/kaweendras](https://github.com/kaweendras)
 
-- 📧 Reach me at <a  href="https://twitter.com/kaweendra_s">**Twitter**<a/>
+- 📧 Reach me at <a  href="https://twitter.com/kaweendra_s">**X(Twitter)**<a/>
 
 - ⚡ Hobbies **PC Games 🎮, Books📚, Movies🎞, Photography📷**
 
