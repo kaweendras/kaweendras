@@ -19,7 +19,7 @@
 
 
 
-- 📙 I’m currently studying **Machine Learning** , **Web3.js , Ether.js** and **Solidity**
+- 📙 I’m currently studying **AI/ML** , **Blockchain**  , **AWS** and **Solidity**
 
 - 💻 My projects are available at [https://github.com/kaweendras](https://github.com/kaweendras)
 
